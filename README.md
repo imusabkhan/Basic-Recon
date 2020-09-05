@@ -1,15 +1,15 @@
 # Basic-Recon
 Basic Recon is an automation script for your regular workflow.
 
-# Prerequisite
+## # Prerequisite
 Nmap and Masscan is required to run this script.
 
-# Installation
+## # Installation
 apt-get install nmap
 
 apt-get install masscan
 
-# Setup
+## # Setup
 
 git clone https://github.com/Musab-khan95/Basic-Recon.git
 
@@ -17,16 +17,16 @@ cd Basic-Recon
 
 chmod +x scan.sh
 
-# Access from anywhere
+## # Access from anywhere
 
 mv scan.sh /usr/local/bin
 
-# Usage
+## # Usage
 scan.sh ip.txt
 
-# Expected Output
+## # Expected Output
 nmap/127.0.0.1.xml
 
 
-# Youtube channel
+## # Youtube channel
 https://youtube.com/c/musabkhan
